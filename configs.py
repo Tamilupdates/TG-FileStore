@@ -30,7 +30,7 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 │
 ├🔹📚 **Library:** [𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦](https://docs.pyrogram.org)
 │
-├🔸👨‍💻 **Developer:** [@𝐏𝐫𝐞𝐝𝐚𝐭𝐨𝐫](https://t.me/Nanthakps) 
+├🔸👨‍💻 **Developer:** [@Nanthakps](https://t.me/Nanthakps) 
 │
 ╰──────[ 😎 ]───────────⍟
 """
