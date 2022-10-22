@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/Tamilupdates/TG-FileStore",
     "website": "https://telegram.dog/Nanthakps",
-    "success_url": "https://t.me/Nanthakps,
+    "success_url": "https://t.me/Nanthakps",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org"
