@@ -12,8 +12,8 @@
 
 ### Configs
 
-- `API_ID` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
-- `API_HASH` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
+- `API_ID` - Get this from [@BotFather](https://t.me/BotFather)
+- `API_HASH` - Get this from [@BotFather](https://t.me/BotFather)
 - `BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
 - `BOT_USERNAME` - You Bot Username. *(Without [@])*
 - `DB_CHANNEL` - A Telegram Channel ID.
